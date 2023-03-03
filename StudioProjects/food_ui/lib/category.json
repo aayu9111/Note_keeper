@@ -1,0 +1,36 @@
+{
+  "Category": [
+    {
+      "img": "assets/images/dumplings.png",
+      "recipeName": "PotSticker",
+      "shortDescription": "An authentic potsticker recipe using ground beef and ground shrimp ",
+      "longDescription": "When the stew has about 30 mins to go, arrange the dumplings on top and cover with a lid. With the oven at 160C/140C fan/gas 3, cook the stew and dumplings for 20 mins, then remove the lid and cook for another 10 mins until they’re brown and puffed up.",
+      "difficultyLevel": "Easy",
+      "duration": "25 Min"
+    },
+    {
+      "img": "assets/images/pasta.png",
+      "recipeName": "PotSticker",
+      "shortDescription": "An authentic potsticker recipe using ground beef and ground shrimp ",
+      "longDescription": "When the stew has about 30 mins to go, arrange the dumplings on top and cover with a lid. With the oven at 160C/140C fan/gas 3, cook the stew and dumplings for 20 mins, then remove the lid and cook for another 10 mins until they’re brown and puffed up.",
+      "difficultyLevel": "Easy",
+      "duration": "25 Min"
+    }
+  ],
+  "Category1": [
+    {
+      "image": "assets/images/pizza.png",
+      "title": "Pizza"
+    },
+    {
+      "image": "assets/images/pasta_category.png",
+      "title": "Pasta"
+    },
+    {
+      "image": "assets/images/steak.png",
+      "title": "Steak"
+    }
+  ]
+}
+
+
